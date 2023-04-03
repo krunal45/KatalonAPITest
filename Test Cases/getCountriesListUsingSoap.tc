@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>getCountriesListUsingSoap</name>
+   <tag>Soap</tag>
+   <comment></comment>
+   <testCaseGuid>5b809b37-9361-4eaf-a695-e55e7a7aa530</testCaseGuid>
+</TestCaseEntity>

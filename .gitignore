@@ -14,3 +14,8 @@ build
 .classpath
 
 .project
+Keywords
+com.*
+Dev.*
+*.groovy
+org.eclipse.*
